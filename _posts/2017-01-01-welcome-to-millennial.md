@@ -9,6 +9,8 @@ image: unity_cyber.png
 
 from unemployed graduate to dream job* at AAA company in 2 years
 
+*\*n.b. dream jobs do not exist. Probably a topic for a future blog post.*
+
 ## Getting Started
 
 as graduate, you're basically one of thousands, unless you have a personal recommendation or really stand out in some way (that is not necessarily related to the field you're trying to break into), no one cares about you. recruiters will ghost you. location matters. I didn't get a job in the industry when I graduated. 
