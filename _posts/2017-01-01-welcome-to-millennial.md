@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How I Got Into Graphics Programming"
-author: "Paul Le"
+title: "How I Got Into Graphics Programming"
+author: "Grace Zhu"
 categories: documentation
-tags: [documentation,sample]
-image: cuba-1.jpg
+tags: [documentation,graphics]
+image: unity_cyber.jpg
 ---
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
