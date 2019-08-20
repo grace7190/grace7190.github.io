@@ -4,7 +4,7 @@ title: "Game of Thrones - Beyond the Wall"
 author: "Grace Zhu"
 categories: project
 tags: [project,work]
-image: got-bloodraven.jpg
+image: got_bloodraven.jpg
 ---
 
 # Game of Thrones - Beyond the Wall
