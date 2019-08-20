@@ -4,7 +4,7 @@ title: "How I Got Into Graphics Programming"
 author: "Grace Zhu"
 categories: documentation
 tags: [documentation,graphics]
-image: unity_cyber.png
+image: unity_cyber.jpg
 ---
 
 from unemployed graduate to dream job* at AAA company in 2 years
