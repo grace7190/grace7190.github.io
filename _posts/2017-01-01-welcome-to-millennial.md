@@ -7,9 +7,10 @@ tags: [documentation,graphics]
 image: unity_cyber.jpg
 ---
 
-from unemployed graduate to dream job* at AAA company in 2 years
+From unemployed graduate\* to dream job\*\* at AAA company in 2 years
 
-*\*n.b. dream jobs do not exist. Probably a topic for a future blog post.*
+*\*only technically unemployed before I went back to my old job*
+*\*dream jobs do not exist. Probably a topic for a future post.*
 
 ## Getting Started
 
