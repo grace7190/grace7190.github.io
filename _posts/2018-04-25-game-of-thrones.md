@@ -9,4 +9,4 @@ image: got-bloodraven.jpg
 
 # Game of Thrones - Beyond the Wall
 
-![game of thrones roster](assets/img/got_roster.jpg)
+![game of thrones roster](../assets/img/got_roster.jpg)
