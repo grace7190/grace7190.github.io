@@ -37,4 +37,6 @@ at some point you are going to have to review some math, and maybe learn some ne
 
 ## Not An Expert
 
-I'm only like 3 months into my current job so take my advice with a grain of salt. I can only offer one perspective on how to get your foot in the door, and have nothing of value to say about what to do after :) But even getting your foot in the door can be a big step requiring a lot of investment, and future graphics programmers shouldn't be deterred just because they've heard about how difficult it is. 
+I'm only like 3 months into my current job so take my advice with a grain of salt. I can only offer one perspective on how to get your foot in the door, and have nothing of value to say about what to do after :) But even getting your foot in the door can be a big step requiring a lot of investment, and future graphics programmers shouldn't be deterred just because they've heard about how difficult it is. I really believe the perceived difficulty of graphics discourages many talented and potential great graphics programmers from entering and advancing the field, especially if you're not cut from the same mold as most present-day leading graphics researchers. 
+
+I'm immensely grateful to the graphics programmers who have helped and continue to help me in my career by generously sharing their time and knowledge. 
