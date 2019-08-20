@@ -7,36 +7,32 @@ tags: [documentation,graphics]
 image: unity_cyber.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+from unemployed graduate to dream job* at AAA company in 2 years
 
 ## Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+as graduate, you're basically one of thousands, unless you have a personal recommendation or really stand out in some way (that is not necessarily related to the field you're trying to break into), no one cares about you. recruiters will ghost you. location matters. I didn't get a job in the industry when I graduated. 
 
-## Example Content
+My point is not to discourage anyone but to offer some perspective - if you want it, keep working at it. Do what you need to do to make rent/live well in the meantime. Keep informed of industry trends, and supply/demand for the field/position you're targeting so you can have realistic expectations. Pivot if it makes sense to do so. Try not to close off/rule out options that still get you closer to where you want to be, even if it's not 100% The Thing.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+Oh yeah and once you get your first job at a big company recruiters are suddenly Super Interested in you, like in those Axe Body Spray ads before and after, but that's a topic for another time. 
 
-## Questions?
+## Start Learning Graphics
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+aka "so you want to be a graphics programmer?"
 
-## More Jekyll!
+I had one semester of college graphics. even if it's 90% theory and dinosaur age tech with course material that's decade(s) old, it was kind of cool making a raytracer (almost) from scratch. However, it didn't really end up helping me that much. It was somehow too basic and too difficult at the same time. So if you didn't take any graphics in college, don't worry about it. 
 
-### Lagrange
+test the waters before diving in head first. play around with things that require minimal setup. unity's shader graph. shadertoy. 
+if math comes naturally to you and you understand formulas after seeing them once, stop reading this and go invent some rendering techniques. For the rest of us, an intuitive understanding of lighting helps a ton before taking the plunge into <brdf equation> look for stuff like "rendering for artists" or "pbr for artists" - they're likely to use less technical terms and have more pictures (no shade, simplicity is under-appreciated!). 
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+not bored yet? you're on the right track then. play around with stuff other people have done. once you gain some understanding, try to replicate cool existing effects without copying. 
+watch some video presentations of papers. if they're starting to make sense, read the papers. my approach is first looking at all the pretty pictures, then looking up any key terms i don't know, then finally reading the paper sentence by sentence. until I get tired and just scroll through the pictures again. Still working on that. 
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+reach out to people. graphics programmers have a pretty active community on twitter, and so many graphics programmers at AAA companies have blog posts about your favourite game that are as fun as they are insightful. 
 
-### Portfolio Jekyll Theme
+at some point you are going to have to review some math, and maybe learn some new stuff. if you took any kind of engineering or CS program, you should have basic linear algebra and calculus which will get you through most of it. if you didn't have those, demand a refund. Otherwise, you'll at least have to understand vectors/matrices and trigonometry to start, and the rest can be learned as needed. 
 
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
+## Not An Expert
 
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+I'm only like 3 months into my current job so take my advice with a grain of salt. I can only offer one perspective on how to get your foot in the door, and have nothing of value to say about what to do after :) But even getting your foot in the door can be a big step requiring a lot of investment, and future graphics programmers shouldn't be deterred just because they've heard about how difficult it is. 
