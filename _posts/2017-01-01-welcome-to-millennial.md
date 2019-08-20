@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
+title: How I Got Into Graphics Programming"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
