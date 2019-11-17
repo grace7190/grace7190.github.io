@@ -10,4 +10,7 @@ image: got_bloodraven.jpg
 ## Apr 2018 - Feb 2019
 
 ![game of thrones roster](../assets/img/got_roster.jpg)
-One day I'll write a post-morten about this project, maybe when it's released and I can do so without burning bridges or breaking NDAs :)
+
+This was my first project working professionally in Unity, I started with developing prototypes and ended up really enjoying working with artists and technical artists, which led me in my current direction. 
+
+One day I'll write a post-mortem about this project, when it's released and I can do so without breaking NDAs :)
